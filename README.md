@@ -1,14 +1,14 @@
 # Project-Cleang-Data-using-MySQL
 
-This project focuses on cleaning a simple CSV dataset containing lay off information about people, their companies, and layoff details. The dataset includes:
+This project focuses on cleaning a simple CSV dataset containing information about companies and there and laid off details. The dataset includes:
 
 Company name
 
 Company location
 
-Total number of layoffs
+Total number of laid offs
 
-Layoff percentage
+Laid off percentage
 
 Industry
 

@@ -1,3 +1,6 @@
+
+-- we Exploratory Data after cleaning it 
+
 SELECT * 
 FROM layoffs_staging2;
 

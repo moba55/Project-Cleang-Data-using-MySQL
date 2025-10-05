@@ -1,6 +1,6 @@
 # Project-Cleang-Data-using-MySQL
 
-This project focuses on cleaning a simple CSV dataset containing information about companies and there and laid off details. The dataset includes:
+This project focuses on Cleaning and Exploratory Data on a simple CSV dataset containing information about companies and there and laid off details. The dataset includes:
 
 Company name
 
